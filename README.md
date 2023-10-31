@@ -21,4 +21,4 @@ Los **PROYECTOS EN GRUPO** implican la colaboración entre varios desarrolladore
 
 Los **CODELABS DE ANDROID STUDIO** son tutoriales prácticos que guían a los desarrolladores a través del proceso de construcción de una aplicación específica en Android Studio, a menudo con un enfoque en una tecnología o concepto particular.
 
-En este directorio se encuentra el código específico de cada Codelab y su imforme correspondiente.
+En este directorio se encuentra el código específico de cada Codelab y su informe correspondiente.
