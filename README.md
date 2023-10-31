@@ -8,7 +8,7 @@ Este archivo README proporciona una visión general de los diferentes tipos de p
 
 ## PROYECTOS INDIVIDUALES
 
-Los **PROYECTOS INDIVIDUALES** tienen todo el contenido relacionado con el trabajo individual de la asignaturas.
+Los **PROYECTOS INDIVIDUALES** tienen todo el contenido relacionado con el trabajo individual de la asignatura.
 
 
 ## PROYECTOS EN GRUPO
